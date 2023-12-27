@@ -1,16 +1,12 @@
 # flutterlecture
 
-A new Flutter project.
+12.26 코드인송도 Flutter 기초강의 기록
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Stateless/Stateful Widget
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Widget: 화면을 그리는 단위
+- State: 상태
+- Stateless : 상태없음.
+- Stateful : 상태유지. 자신의 상태를 화면을 그림
